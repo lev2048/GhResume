@@ -1,4 +1,4 @@
-GhResume
+简历页面
 ========
 
 Another resume generator for github user
